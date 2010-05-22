@@ -1,4 +1,4 @@
-h2. Welcome to Simple-Vim-Installer
+# Welcome to Simple-Vim-Installer #
 
 This script will compile a fully functioning vim executable on your system.  You then put it wherever you like (in your path) though you probably want to replace the stock vim on your system. 
 
